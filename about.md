@@ -8,4 +8,4 @@ Desde muy pequeño me llamaron la atención los computadores, aunque en ese ento
 
 No fue hasta salir de la enseñanza media que me pregunté a mi mismo que iba a hacer el resto de mi vida, y ahi fue cuando decidí estudiar Ingeniería en Informática, y dentro de la carrera conoci la programación y desde ese entonces dedico gran parte de mis días a aprender más sobre código, tecnicas y buenas prácticas en este ambito.
 
-Actualmente estoy aprendiendo Ruby On Rails, y Node.JS ;)
+Actualmente estoy aprendiendo Ruby On Rails :)
