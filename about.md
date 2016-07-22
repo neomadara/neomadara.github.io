@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Desde muy pequeño me llamaron la atención los computadores, aunque en ese entonces jamás me pregunte el cómo funcionan, o que los hacia ser tan interesantes, era demasiado joven para llegar a esas preguntas.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+No fue hasta salir de la enseñanza media que me pregunté a mi mismo que iba a hacer el resto de mi vida, y ahi fue cuando decidí estudiar Ingeniería en Informática, y dentro de la carrera conoci la programación y desde ese entonces dedico gran parte de mis días a aprender más sobre código, tecnicas y buenas prácticas en este ambito.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Actualmente estoy aprendiendo Ruby On Rails, y Node.JS ;)
