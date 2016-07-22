@@ -10,8 +10,7 @@ title: Cristian Gutiérrez
 email: neo.madara@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Soy un Dev con mucha pasión por el código y las nuevas tecnologías, en mi tiempo libre
-  me dedico a expandar mis conocimientos para pulir mis habilidades Dev para despues relajarme
-  dejando salir mi lado Gamer ;)
+  me dedico a expandar mis conocimientos y divertirme dejando salir mi lado Gamer ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neomadara.github.io/" # the base hostname & protocol for your site
 twitter_username: CristGutierrez
